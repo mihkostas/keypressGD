@@ -49,7 +49,7 @@ def ReleaseKey(hexKeyCode):
               ki=KEYBDINPUT(wVk=hexKeyCode,
                             dwFlags=KEYEVENTF_KEYUP))
     user32.SendInput(1, ctypes.byref(x), ctypes.sizeof(x))
-def F12():
+def V():
     PressKey(0x56)
     time.sleep(0.5)
    # ReleaseKey(0x56)
@@ -57,5 +57,5 @@ def F12():
     # msdn.microsoft.com/en-us/library/dd375731
 
 while True:
- F12()
+ V()
 
