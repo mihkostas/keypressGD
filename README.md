@@ -17,6 +17,6 @@ keypressGD is gonna run on the background , you have to close it from the Taskba
 
 **Note:**
 
-Do to the nature of the program emulating a key on the keyboard windows defender may flag it as malicious even if you build the project yourself , so you may need to set all the project files to "Allow on device".
+Do to the nature of the program emulating a key on the keyboard windows defender may flag it as malicious even if you build the project yourself , so you may need to set all the project executables to "Allow on device".
 
 
