@@ -12,7 +12,7 @@ Press "Ctrl+s" to start it.
 
 Press "Ctrl+q" and then "v" one time to stop it.
 
-keypressGD is gonna run on the background , you have to close it from the Taskbar afterwards.
+keypressGD is gonna run on the background , you have to close it from the Taskbar when you finish with GD.
 
 
 **Note:**
