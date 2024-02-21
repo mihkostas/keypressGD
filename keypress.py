@@ -52,9 +52,7 @@ def ReleaseKey(hexKeyCode):
 def V():
     PressKey(0x56)
     time.sleep(0.5)
-   # ReleaseKey(0x56)
-    # you can change 0x30 to any key you want. For more info look at :
-    # msdn.microsoft.com/en-us/library/dd375731
+   
 
 while True:
  V()
