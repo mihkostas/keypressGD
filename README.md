@@ -5,7 +5,7 @@ it works by emulating the "V" button.
 
 **Usage:**
 
-Run the keypressGD.exe from the keypressGD folder
+Run the keypressGD.exe from the keypressGD folder then
 launch geometry dash and join a server etc.
 
 Press "Ctrl+s" to start it.
