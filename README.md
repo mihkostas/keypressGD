@@ -9,4 +9,5 @@ Run the keypressGD.exe from the keypressGD folder
 launch geometry dash and connect to a server etc.
 
 Press "Ctrl+s" to start it.
+
 Press "Ctrl+q" and then "v" one time to stop it.
